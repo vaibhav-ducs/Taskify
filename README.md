@@ -35,6 +35,7 @@ task-manager/
 │   ├── App.js
 │   ├── index.js
 
+```
 ### **Dashboard**
 ![Dashboard Screenshot](frontend/src/images/dashboard.png)
 
