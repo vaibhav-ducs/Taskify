@@ -44,3 +44,5 @@ task-manager/
 
 ### **Task Management Page**
 ![Task Management Page Screenshot](task-manager-frontend/src/components/img/TaskManager.png)
+
+**Note: ** Task add, modify and delete is under progress!
