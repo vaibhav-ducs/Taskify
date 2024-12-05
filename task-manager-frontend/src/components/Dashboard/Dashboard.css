@@ -1,0 +1,50 @@
+/* src/components/Dashboard/Dashboard.css */
+
+.dashboard {
+    text-align: center;
+    background-color: #d3d3d3;
+    padding: 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .navbar .logo {
+    cursor: pointer;
+  }
+  
+  .logo-img {
+    height: 40px;
+    width: auto;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .nav-links li {
+    color: white;
+  }
+  
+  .nav-links li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .intro {
+    margin-top: 20px;
+  }
+  
+  .intro-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
