@@ -34,3 +34,12 @@ task-manager/
 │       ├── images/
 │   ├── App.js
 │   ├── index.js
+
+### **Dashboard**
+![Dashboard Screenshot](frontend/src/images/dashboard.png)
+
+### **Signup Popup**
+![Signup Popup Screenshot](frontend/src/images/signup-popup.png)
+
+### **Task Management Page**
+![Task Management Page Screenshot](frontend/src/images/task-manager.png)
