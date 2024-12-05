@@ -37,10 +37,10 @@ task-manager/
 
 ```
 ### **Dashboard**
-![Dashboard Screenshot](frontend/src/images/dashboard.png)
+![Dashboard Screenshot](frontend/src/img/Dashboard.png)
 
 ### **Signup Popup**
-![Signup Popup Screenshot](frontend/src/images/signup-popup.png)
+![Signup Popup Screenshot](frontend/src/img/Signup.png)
 
 ### **Task Management Page**
-![Task Management Page Screenshot](frontend/src/images/task-manager.png)
+![Task Management Page Screenshot](frontend/src/img/TaskManager.png)
